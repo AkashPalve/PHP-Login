@@ -22,7 +22,7 @@ require 'dbconnect.php';
 		<input type="password" class="inputvalues" name="password" placeholder="Enter your password" ><br><br>
 		
 		<label class="label">Confirm Password</label>
-        <input type="password" class="inputvalues" name="cpassword" placeholder="Confirm your password" ><br><br>
+                <input type="password" class="inputvalues" name="cpassword" placeholder="Confirm your password" ><br><br>
 
 		<input type="submit" name="signup" value="Register" id="register-btn"><br><br>
 
